@@ -5,7 +5,6 @@ This is a simple QR Code Generator web application built using Python and Stream
 ## Features
 - **Generate QR Code**: Convert any text or URL into a QR code.
 - **Download Option**: Users can download the generated QR code as a PNG image.
-- **Center-aligned Interface**: The app's contents are center-aligned for a clean and visually appealing UI.
 
 ## Tech Stack
 - **Python**: The core programming language used for building the application.
